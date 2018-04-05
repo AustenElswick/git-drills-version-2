@@ -10,14 +10,18 @@ h1 {
   grid-column: 1/span 2;
   margin-left: 1rem;
   color: orange;
+  background-color: black;
+  margin-right: 1rem;
 }
 
 nav {
   grid-column: 5/ span 2;
+  height: 300px;
+  width: 100px;
 }
 
 nav a {
   text-decoration: none;
   color: darkgrey;
-  font-size:
+  font-size: .5rem;
 }
